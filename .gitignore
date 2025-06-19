@@ -1,1 +1,16 @@
 venv/
+*.pyc
+__pycache__/
+.env
+.venv
+env/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
